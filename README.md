@@ -17,7 +17,7 @@ pip install pyqt6-tools
 
 __Step 4__: Learn about OpenCV, Sk-learn, PyQt6 and Deep learning in python.
 
-__Step 5__: Make project on each topic to gets hands-on experience.
+__Step 5__: Make a project on each topic to get hands-on experience.
 
 ## Learn (Resources)
 ### Open CV:
